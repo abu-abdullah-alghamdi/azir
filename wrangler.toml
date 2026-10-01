@@ -1,5 +1,5 @@
-name = "tmp-company"
-compatibility_date = "2026-09-11"
+name = "azir"
+compatibility_date = "2026-10-01"
 
 [assets]
 directory = "./"
